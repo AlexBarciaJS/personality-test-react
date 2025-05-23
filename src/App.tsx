@@ -1,7 +1,7 @@
-import Question from "./components/Question/Question";
-import type { selectedAnswerType } from "./types";
+import Question from "./components/Question";
+import type { selectedAnswerType } from "./types/index.ts";
 import questionsEsp from "./data/questions_personality.json";
-import Result from "./components/Result/Result";
+import Result from "./components/Result";
 import { useState } from "react";
 
 function App() {

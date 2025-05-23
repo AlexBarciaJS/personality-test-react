@@ -1,8 +1,8 @@
 import person from "../../assets/person.svg";
 import "./Result.css";
 import personalities from "../../data/personalityEsp.json";
-import type { AnswerColor, ResultProps } from "../../types";
-import { answersColors } from "../../constants";
+import type { AnswerColor, ResultProps } from "../../types/index.ts";
+import { answersColors } from "../../constants/index.ts";
 
 interface Personality {
   percent: number;
@@ -30,7 +30,7 @@ function getPersonality(
   return { percent, color };
 }
 
-function Result({ selectedAnswers, totalQuestions }: ResultProps) {
+const Result: React.FC<ResultProps> = ({ selectedAnswers, totalQuestions }) => {
   const totalAnswers = Object.values(selectedAnswers).length;
   const showResult = totalAnswers === totalQuestions;
   const resultPercent = (totalAnswers * 100) / totalQuestions;
@@ -57,16 +57,12 @@ function Result({ selectedAnswers, totalQuestions }: ResultProps) {
     ${personalityB.color} ${personalityB.percent}%, 
     ${personalityA.color} ${personalityA.percent}%)`,
   };
-  console.log(percentFlagStyle);
 
   const firstResult =
     personalityA.color !== "white" ? personalities[personalityA.color] : "";
   const secondResult =
     personalityB.color !== "white" ? personalities[personalityB.color] : "";
-  console.log(personalityA.color);
-  console.log({ firstResult });
 
-  console.log(sortedFrequencies);
   return (
     <div className="row result-content">
       <div className="row person-container" style={percentFlagStyle}>
@@ -92,6 +88,6 @@ function Result({ selectedAnswers, totalQuestions }: ResultProps) {
       )}
     </div>
   );
-}
+};
 
 export default Result;

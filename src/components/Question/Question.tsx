@@ -1,22 +1,13 @@
 import { useMemo } from "react";
-import type { QuestionProps } from "../../types";
+import type { QuestionProps } from "../../types/index.ts";
 import "./Question.css";
+import { shuffleArray } from "../../utils";
 
-// Utility para mezclar un array
-function shuffleArray<T>(array: T[]): T[] {
-  const shuffled = [...array];
-  for (let i = shuffled.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
-    [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
-  }
-  return shuffled;
-}
-
-function Question({
+const Question: React.FC<QuestionProps> = ({
   questionsData,
   selectedAnswers,
   handleClick,
-}: QuestionProps) {
+}) => {
   // Memoize all shuffled answers for each question
   const shuffledAnswersList = useMemo(
     () => questionsData.map((element) => shuffleArray(element.answers)),
@@ -55,6 +46,6 @@ function Question({
       })}
     </>
   );
-}
+};
 
 export default Question;
