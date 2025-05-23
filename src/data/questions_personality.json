@@ -1,0 +1,422 @@
+[
+  {
+    "question": "¿Cómo tomas decisiones importantes?",
+    "answers": [
+      {
+        "answer": "Consultando con otros y buscando opiniones.",
+        "value": 2
+      },
+      {
+        "answer": "Reflexionando con calma y considerando el impacto en los demás.",
+        "value": 3
+      },
+      {
+        "answer": "Analizando todos los datos y evaluando los riesgos.",
+        "value": 4
+      },
+      {
+        "answer": "Rápidamente, confiando en mi instinto.",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "question": "¿Qué es lo más importante al trabajar en equipo?",
+    "answers": [
+      {
+        "answer": "Que todos se sientan cómodos y escuchados.",
+        "value": 3
+      },
+      {
+        "answer": "Tener reglas claras y roles definidos.",
+        "value": 4
+      },
+      {
+        "answer": "Mantener un ambiente animado y divertido.",
+        "value": 2
+      },
+      {
+        "answer": "Lograr los objetivos de forma eficiente.",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "question": "¿Cómo reaccionas ante el cambio?",
+    "answers": [
+      {
+        "answer": "Me cuesta, pero me adapto con el tiempo.",
+        "value": 3
+      },
+      {
+        "answer": "Analizo riesgos y preparo un plan antes de actuar.",
+        "value": 4
+      },
+      {
+        "answer": "¡Qué emocionante! Nuevas oportunidades.",
+        "value": 2
+      },
+      {
+        "answer": "Lo enfrento sin dudar; es parte del progreso.",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "question": "¿Cómo manejas un conflicto con alguien?",
+    "answers": [
+      {
+        "answer": "Escucho primero y busco un acuerdo común.",
+        "value": 3
+      },
+      {
+        "answer": "Voy directo al punto y lo resuelvo rápido.",
+        "value": 1
+      },
+      {
+        "answer": "Intento suavizar el ambiente con humor.",
+        "value": 2
+      },
+      {
+        "answer": "Me aseguro de entender los hechos antes de hablar.",
+        "value": 4
+      }
+    ]
+  },
+  {
+    "question": "¿Qué te motiva más en el trabajo?",
+    "answers": [
+      {
+        "answer": "Un ambiente tranquilo y estable.",
+        "value": 3
+      },
+      {
+        "answer": "Tareas claras y bien organizadas.",
+        "value": 4
+      },
+      {
+        "answer": "La posibilidad de interactuar con otros.",
+        "value": 2
+      },
+      {
+        "answer": "Alcanzar metas y superar desafíos.",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "question": "¿Cómo describes tu estilo de comunicación?",
+    "answers": [
+      {
+        "answer": "Entusiasta y expresivo.",
+        "value": 2
+      },
+      {
+        "answer": "Claro, directo y sin rodeos.",
+        "value": 1
+      },
+      {
+        "answer": "Preciso y bien estructurado.",
+        "value": 4
+      },
+      {
+        "answer": "Amable y calmado.",
+        "value": 3
+      }
+    ]
+  },
+  {
+    "question": "¿Cómo enfrentas un nuevo reto?",
+    "answers": [
+      {
+        "answer": "Investigo todos los detalles antes de empezar.",
+        "value": 4
+      },
+      {
+        "answer": "Primero busco apoyo y comprensión.",
+        "value": 3
+      },
+      {
+        "answer": "Actúo de inmediato para ganar ventaja.",
+        "value": 1
+      },
+      {
+        "answer": "Busco hacerlo divertido y motivador.",
+        "value": 2
+      }
+    ]
+  },
+  {
+    "question": "¿Qué valoras más en los demás?",
+    "answers": [
+      {
+        "answer": "Lealtad y empatía.",
+        "value": 3
+      },
+      {
+        "answer": "Alegría y espontaneidad.",
+        "value": 2
+      },
+      {
+        "answer": "Determinación y coraje.",
+        "value": 1
+      },
+      {
+        "answer": "Precisión y lógica.",
+        "value": 4
+      }
+    ]
+  },
+  {
+    "question": "¿Cómo actúas ante la presión?",
+    "answers": [
+      {
+        "answer": "Trato de mantener el ánimo arriba.",
+        "value": 2
+      },
+      {
+        "answer": "Busco mantener la armonía.",
+        "value": 3
+      },
+      {
+        "answer": "Me enfoco en los hechos y planifico bien.",
+        "value": 4
+      },
+      {
+        "answer": "Mantengo el control y tomo decisiones rápidas.",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "question": "¿Cómo te describirías en pocas palabras?",
+    "answers": [
+      {
+        "answer": "Detallista y preciso.",
+        "value": 4
+      },
+      {
+        "answer": "Ambicioso y competitivo.",
+        "value": 1
+      },
+      {
+        "answer": "Creativo y optimista.",
+        "value": 2
+      },
+      {
+        "answer": "Paciente y estable.",
+        "value": 3
+      }
+    ]
+  },
+  {
+    "question": "¿Qué haces cuando te enfrentas a un error?",
+    "answers": [
+      {
+        "answer": "Lo asumo y paso a lo siguiente rápidamente.",
+        "value": 1
+      },
+      {
+        "answer": "Analizo lo que pasó para evitarlo de nuevo.",
+        "value": 4
+      },
+      {
+        "answer": "Pido disculpas y trato de reparar el daño.",
+        "value": 3
+      },
+      {
+        "answer": "Hago una broma para quitarle tensión.",
+        "value": 2
+      }
+    ]
+  },
+  {
+    "question": "¿Qué te hace sentir más incómodo?",
+    "answers": [
+      {
+        "answer": "La lentitud y la ineficiencia.",
+        "value": 1
+      },
+      {
+        "answer": "Los conflictos y la confrontación.",
+        "value": 3
+      },
+      {
+        "answer": "La rutina aburrida.",
+        "value": 2
+      },
+      {
+        "answer": "La falta de orden y claridad.",
+        "value": 4
+      }
+    ]
+  },
+  {
+    "question": "¿Qué tipo de tareas prefieres?",
+    "answers": [
+      {
+        "answer": "Creativas y colaborativas.",
+        "value": 2
+      },
+      {
+        "answer": "Metódicas y detalladas.",
+        "value": 4
+      },
+      {
+        "answer": "Desafiantes y con competencia.",
+        "value": 1
+      },
+      {
+        "answer": "Predecibles y tranquilas.",
+        "value": 3
+      }
+    ]
+  },
+  {
+    "question": "¿Qué haces cuando lideras un grupo?",
+    "answers": [
+      {
+        "answer": "Cuido que todos estén cómodos y escuchados.",
+        "value": 3
+      },
+      {
+        "answer": "Animo al equipo con energía y humor.",
+        "value": 2
+      },
+      {
+        "answer": "Doy instrucciones claras y me aseguro del resultado.",
+        "value": 1
+      },
+      {
+        "answer": "Organizo roles, reglas y documentos.",
+        "value": 4
+      }
+    ]
+  },
+  {
+    "question": "¿Cómo prefieres recibir instrucciones?",
+    "answers": [
+      {
+        "answer": "Breves y al punto.",
+        "value": 1
+      },
+      {
+        "answer": "En un ambiente relajado y amigable.",
+        "value": 3
+      },
+      {
+        "answer": "Con entusiasmo y ejemplos creativos.",
+        "value": 2
+      },
+      {
+        "answer": "Claras, detalladas y por escrito.",
+        "value": 4
+      }
+    ]
+  },
+  {
+    "question": "¿Qué es lo más difícil para ti en una discusión?",
+    "answers": [
+      {
+        "answer": "Herir los sentimientos del otro.",
+        "value": 3
+      },
+      {
+        "answer": "Que se vuelva aburrida o lenta.",
+        "value": 2
+      },
+      {
+        "answer": "Tener que ceder.",
+        "value": 1
+      },
+      {
+        "answer": "La falta de argumentos sólidos.",
+        "value": 4
+      }
+    ]
+  },
+  {
+    "question": "¿Qué buscas en una amistad?",
+    "answers": [
+      {
+        "answer": "Lealtad y determinación.",
+        "value": 1
+      },
+      {
+        "answer": "Claridad y honestidad.",
+        "value": 4
+      },
+      {
+        "answer": "Diversión y espontaneidad.",
+        "value": 2
+      },
+      {
+        "answer": "Comprensión y apoyo.",
+        "value": 3
+      }
+    ]
+  },
+  {
+    "question": "¿Cómo celebras tus logros?",
+    "answers": [
+      {
+        "answer": "Reflexionando sobre el proceso y los resultados.",
+        "value": 4
+      },
+      {
+        "answer": "Compartiendo el logro con seres queridos.",
+        "value": 3
+      },
+      {
+        "answer": "Con una fiesta con amigos.",
+        "value": 2
+      },
+      {
+        "answer": "Con una nueva meta.",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "question": "¿Cómo reaccionas cuando algo no sale como esperabas?",
+    "answers": [
+      {
+        "answer": "Analizo el error para aprender.",
+        "value": 4
+      },
+      {
+        "answer": "Acepto la situación y me adapto.",
+        "value": 3
+      },
+      {
+        "answer": "Trato de verle el lado positivo.",
+        "value": 2
+      },
+      {
+        "answer": "Busco otra manera más efectiva.",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "question": "¿Qué prefieres en tu rutina diaria?",
+    "answers": [
+      {
+        "answer": "Acción y dinamismo.",
+        "value": 1
+      },
+      {
+        "answer": "Flexibilidad y variedad.",
+        "value": 2
+      },
+      {
+        "answer": "Estructura y previsibilidad.",
+        "value": 4
+      },
+      {
+        "answer": "Estabilidad y calma.",
+        "value": 3
+      }
+    ]
+  }
+]

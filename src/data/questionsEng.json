@@ -1,0 +1,245 @@
+[
+  {
+    "question": "How do you make important decisions?",
+    "answers": [
+      { "answer": "Quickly, trusting my instincts. ", "value": 1 },
+      {
+        "answer": "By consulting others and seeking opinions. ",
+        "value": 2
+      },
+      {
+        "answer": "Calmly reflecting and considering the impact on others. ",
+        "value": 3
+      },
+      {
+        "answer": "By analyzing all data and evaluating risks. ",
+        "value": 4
+      }
+    ]
+  },
+  {
+    "question": "What do you value most in a work team?",
+    "answers": [
+      { "answer": "Results and efficiency. ", "value": 1 },
+      { "answer": "Creativity and enthusiasm. ", "value": 2 },
+      { "answer": "Harmony and collaboration. ", "value": 3 },
+      { "answer": "Accuracy and planning. ", "value": 4 }
+    ]
+  },
+  {
+    "question": "How do you face a new challenge?",
+    "answers": [
+      {
+        "answer": "With determination and immediate action. ",
+        "value": 1
+      },
+      { "answer": "With excitement and new ideas. ", "value": 2 },
+      { "answer": "With patience and long-term strategy. ", "value": 3 },
+      { "answer": "With a detailed and controlled plan. ", "value": 4 }
+    ]
+  },
+  {
+    "question": "What role do you usually take in a group?",
+    "answers": [
+      { "answer": "Natural leader guiding the team. ", "value": 1 },
+      {
+        "answer": "The one who motivates and keeps spirits high. ",
+        "value": 2
+      },
+      {
+        "answer": "The one who listens and supports everyone. ",
+        "value": 3
+      },
+      {
+        "answer": "The one who organizes and structures everything. ",
+        "value": 4
+      }
+    ]
+  },
+  {
+    "question": "Which of these traits best describes you?",
+    "answers": [
+      { "answer": "Ambitious and determined. ", "value": 1 },
+      { "answer": "Optimistic and sociable. ", "value": 2 },
+      { "answer": "Patient and understanding. ", "value": 3 },
+      { "answer": "Logical and perfectionist. ", "value": 4 }
+    ]
+  },
+  {
+    "question": "What stresses you the most?",
+    "answers": [
+      { "answer": "Slowness or lack of action. ", "value": 1 },
+      { "answer": "Lack of interaction or excitement. ", "value": 2 },
+      { "answer": "Conflicts or tense environments. ", "value": 3 },
+      { "answer": "Disorder or lack of structure. ", "value": 4 }
+    ]
+  },
+  {
+    "question": "What’s the first thing you do when facing a problem?",
+    "answers": [
+      { "answer": "Look for immediate solutions. ", "value": 1 },
+      { "answer": "Think of creative options. ", "value": 2 },
+      { "answer": "Stay calm and assess the situation. ", "value": 3 },
+      { "answer": "Gather information and analyze it. ", "value": 4 }
+    ]
+  },
+  {
+    "question": "How do you prefer to work?",
+    "answers": [
+      { "answer": "Independently, with clear goals. ", "value": 1 },
+      { "answer": "In a team, sharing ideas. ", "value": 2 },
+      { "answer": "With a trusted group, in harmony. ", "value": 3 },
+      {
+        "answer": "With clear rules and established procedures. ",
+        "value": 4
+      }
+    ]
+  },
+  {
+    "question": "What drives you to take action?",
+    "answers": [
+      { "answer": "Achieving concrete goals. ", "value": 1 },
+      { "answer": "The excitement of doing new things. ", "value": 2 },
+      { "answer": "The desire to help others. ", "value": 3 },
+      {
+        "answer": "The need for everything to be well done. ",
+        "value": 4
+      }
+    ]
+  },
+  {
+    "question": "What kind of recognition do you value most?",
+    "answers": [
+      { "answer": "Being admired for my leadership. ", "value": 1 },
+      { "answer": "Being the center of attention. ", "value": 2 },
+      { "answer": "Being appreciated for my support. ", "value": 3 },
+      { "answer": "Being respected for my accuracy. ", "value": 4 }
+    ]
+  },
+  {
+    "question": "How do you handle pressure?",
+    "answers": [
+      {
+        "answer": "Facing it head-on and making quick decisions. ",
+        "value": 1
+      },
+      { "answer": "Trying to see the bright side. ", "value": 2 },
+      { "answer": "Staying calm and cooperative. ", "value": 3 },
+      { "answer": "Organizing tasks and following a plan. ", "value": 4 }
+    ]
+  },
+  {
+    "question": "What communication style do you prefer?",
+    "answers": [
+      { "answer": "Direct and to the point. ", "value": 1 },
+      { "answer": "Expressive and emotional. ", "value": 2 },
+      { "answer": "Warm and empathetic. ", "value": 3 },
+      { "answer": "Formal and detailed. ", "value": 4 }
+    ]
+  },
+  {
+    "question": "What annoys you most in others?",
+    "answers": [
+      { "answer": "Indecision and passivity. ", "value": 1 },
+      { "answer": "Coldness and emotional distance. ", "value": 2 },
+      { "answer": "Aggressiveness and confrontation. ", "value": 3 },
+      { "answer": "Constant improvisation. ", "value": 4 }
+    ]
+  },
+  {
+    "question": "What do you enjoy most at work?",
+    "answers": [
+      {
+        "answer": "Feeling like I make progress and a difference. ",
+        "value": 1
+      },
+      {
+        "answer": "Connecting with others and having fun. ",
+        "value": 2
+      },
+      { "answer": "Helping maintain harmony. ", "value": 3 },
+      { "answer": "Doing tasks with excellence. ", "value": 4 }
+    ]
+  },
+  {
+    "question": "How do you deal with conflict?",
+    "answers": [
+      { "answer": "By confronting the issue directly. ", "value": 1 },
+      {
+        "answer": "By lowering tension with humor or empathy. ",
+        "value": 2
+      },
+      { "answer": "By mediating and seeking consensus. ", "value": 3 },
+      {
+        "answer": "By being impartial and analyzing the facts. ",
+        "value": 4
+      }
+    ]
+  },
+  {
+    "question": "What do you do when something doesn't go as planned?",
+    "answers": [
+      {
+        "answer": "Quickly look for another way to solve it. ",
+        "value": 1
+      },
+      {
+        "answer": "Try to see the positive side and move on. ",
+        "value": 2
+      },
+      {
+        "answer": "Adapt and support those who need help. ",
+        "value": 3
+      },
+      {
+        "answer": "Review everything to correct it precisely. ",
+        "value": 4
+      }
+    ]
+  },
+  {
+    "question": "What kind of goals motivate you most?",
+    "answers": [
+      { "answer": "Ambitious and challenging ones. ", "value": 1 },
+      { "answer": "Fun and novel ones. ", "value": 2 },
+      { "answer": "Balanced and meaningful ones. ", "value": 3 },
+      { "answer": "Clear and well-defined ones. ", "value": 4 }
+    ]
+  },
+  {
+    "question": "Which phrase best represents you?",
+    "answers": [
+      { "answer": "Let’s get to the point! ", "value": 1 },
+      { "answer": "Good vibes only! ", "value": 2 },
+      { "answer": "The important thing is getting along. ", "value": 3 },
+      { "answer": "First, let’s check the details. ", "value": 4 }
+    ]
+  },
+  {
+    "question": "What type of leadership do you prefer?",
+    "answers": [
+      { "answer": "Strong and results-oriented. ", "value": 1 },
+      { "answer": "Charismatic and inspiring. ", "value": 2 },
+      { "answer": "Fair and collaborative. ", "value": 3 },
+      { "answer": "Organized and expert-driven. ", "value": 4 }
+    ]
+  },
+  {
+    "question": "How do you define success?",
+    "answers": [
+      { "answer": "Reaching goals and standing out. ", "value": 1 },
+      {
+        "answer": "Enjoying what you do and connecting with others. ",
+        "value": 2
+      },
+      {
+        "answer": "Having healthy and stable relationships. ",
+        "value": 3
+      },
+      {
+        "answer": "Doing things with quality and precision. ",
+        "value": 4
+      }
+    ]
+  }
+]

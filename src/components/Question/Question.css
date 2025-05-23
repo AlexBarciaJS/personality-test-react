@@ -1,0 +1,12 @@
+.question-index {
+  padding-right: 15px;
+}
+
+.question-title {
+  margin: 12px;
+}
+
+.answer button {
+  width: 100%;
+  text-align: left;
+}

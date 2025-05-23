@@ -1,0 +1,20 @@
+.result-content {
+  position: fixed;
+}
+
+.person-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50vh;
+}
+.person {
+  max-height: 50%;
+  height: auto;
+}
+
+.result-percent {
+  position: absolute;
+  background-color: white;
+  top: 0;
+}

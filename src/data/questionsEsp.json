@@ -1,0 +1,197 @@
+[
+  {
+    "question": "¿Cómo tomas decisiones importantes?",
+    "answers": [
+      { "answer": "Rápidamente, confiando en mi instinto. ", "value": 1 },
+      { "answer": "Consultando con otros y buscando opiniones. ", "value": 2 },
+      {
+        "answer": "Reflexionando con calma y considerando el impacto en los demás. ",
+        "value": 3
+      },
+      {
+        "answer": "Analizando todos los datos y evaluando los riesgos. ",
+        "value": 4
+      }
+    ]
+  },
+  {
+    "question": "¿Qué valoras más en un equipo de trabajo?",
+    "answers": [
+      { "answer": "Resultados y eficiencia. ", "value": 1 },
+      { "answer": "Creatividad y entusiasmo. ", "value": 2 },
+      { "answer": "Armonía y colaboración. ", "value": 3 },
+      { "answer": "Precisión y planificación. ", "value": 4 }
+    ]
+  },
+  {
+    "question": "¿Cómo enfrentas un nuevo desafío?",
+    "answers": [
+      { "answer": "Con determinación y acción inmediata. ", "value": 1 },
+      { "answer": "Con entusiasmo y nuevas ideas. ", "value": 2 },
+      { "answer": "Con paciencia y estrategia a largo plazo. ", "value": 3 },
+      { "answer": "Con un plan detallado y controlado. ", "value": 4 }
+    ]
+  },
+  {
+    "question": "¿Qué rol sueles tomar en un grupo?",
+    "answers": [
+      { "answer": "Líder natural que guía al equipo. ", "value": 1 },
+      { "answer": "Quien motiva y mantiene el ánimo alto. ", "value": 2 },
+      { "answer": "Quien escucha y apoya a todos. ", "value": 3 },
+      { "answer": "Quien organiza y estructura todo. ", "value": 4 }
+    ]
+  },
+  {
+    "question": "¿Cuál de estos rasgos te describe mejor?",
+    "answers": [
+      { "answer": "Ambicioso y determinado. ", "value": 1 },
+      { "answer": "Optimista y sociable. ", "value": 2 },
+      { "answer": "Paciente y comprensivo. ", "value": 3 },
+      { "answer": "Lógico y perfeccionista. ", "value": 4 }
+    ]
+  },
+  {
+    "question": "¿Qué te estresa más?",
+    "answers": [
+      { "answer": "La lentitud o la falta de acción. ", "value": 1 },
+      { "answer": "La falta de interacción o emoción. ", "value": 2 },
+      { "answer": "Los conflictos o ambientes tensos. ", "value": 3 },
+      { "answer": "El desorden o la falta de estructura. ", "value": 4 }
+    ]
+  },
+  {
+    "question": "¿Qué es lo primero que haces al enfrentar un problema?",
+    "answers": [
+      { "answer": "Busco soluciones inmediatas. ", "value": 1 },
+      { "answer": "Pienso en opciones creativas. ", "value": 2 },
+      { "answer": "Mantengo la calma y evalúo la situación. ", "value": 3 },
+      { "answer": "Reúno información y la analizo. ", "value": 4 }
+    ]
+  },
+  {
+    "question": "¿Cómo prefieres trabajar?",
+    "answers": [
+      { "answer": "De forma independiente, con metas claras. ", "value": 1 },
+      { "answer": "En equipo, compartiendo ideas. ", "value": 2 },
+      { "answer": "Con un grupo de confianza, en armonía. ", "value": 3 },
+      {
+        "answer": "Con reglas claras y procedimientos establecidos. ",
+        "value": 4
+      }
+    ]
+  },
+  {
+    "question": "¿Qué te impulsa a actuar?",
+    "answers": [
+      { "answer": "Alcanzar objetivos concretos. ", "value": 1 },
+      { "answer": "La emoción de hacer cosas nuevas. ", "value": 2 },
+      { "answer": "El deseo de ayudar a los demás. ", "value": 3 },
+      { "answer": "La necesidad de que todo esté bien hecho. ", "value": 4 }
+    ]
+  },
+  {
+    "question": "¿Qué tipo de reconocimiento valoras más?",
+    "answers": [
+      { "answer": "Ser admirado por mi liderazgo. ", "value": 1 },
+      { "answer": "Ser el centro de atención. ", "value": 2 },
+      { "answer": "Ser apreciado por mi apoyo. ", "value": 3 },
+      { "answer": "Ser respetado por mi precisión. ", "value": 4 }
+    ]
+  },
+  {
+    "question": "¿Cómo manejas la presión?",
+    "answers": [
+      {
+        "answer": "Enfrentándola de frente y tomando decisiones rápidas. ",
+        "value": 1
+      },
+      { "answer": "Tratando de ver el lado positivo. ", "value": 2 },
+      { "answer": "Manteniéndome calmado y cooperativo. ", "value": 3 },
+      { "answer": "Organizando tareas y siguiendo un plan. ", "value": 4 }
+    ]
+  },
+  {
+    "question": "¿Qué estilo de comunicación prefieres?",
+    "answers": [
+      { "answer": "Directo y al grano. ", "value": 1 },
+      { "answer": "Expresivo y emocional. ", "value": 2 },
+      { "answer": "Cálido y empático. ", "value": 3 },
+      { "answer": "Formal y detallado. ", "value": 4 }
+    ]
+  },
+  {
+    "question": "¿Qué es lo que más te molesta de los demás?",
+    "answers": [
+      { "answer": "La indecisión y la pasividad. ", "value": 1 },
+      { "answer": "La frialdad y la distancia emocional. ", "value": 2 },
+      { "answer": "La agresividad y la confrontación. ", "value": 3 },
+      { "answer": "La improvisación constante. ", "value": 4 }
+    ]
+  },
+  {
+    "question": "¿Qué disfrutas más en el trabajo?",
+    "answers": [
+      { "answer": "Sentir que progreso y marco la diferencia. ", "value": 1 },
+      { "answer": "Conectarme con otros y divertirme. ", "value": 2 },
+      { "answer": "Ayudar a mantener la armonía. ", "value": 3 },
+      { "answer": "Realizar tareas con excelencia. ", "value": 4 }
+    ]
+  },
+  {
+    "question": "¿Cómo enfrentas un conflicto?",
+    "answers": [
+      { "answer": "Confrontando directamente el problema. ", "value": 1 },
+      { "answer": "Bajando la tensión con humor o empatía. ", "value": 2 },
+      { "answer": "Mediando y buscando consenso. ", "value": 3 },
+      { "answer": "Siendo imparcial y analizando los hechos. ", "value": 4 }
+    ]
+  },
+  {
+    "question": "¿Qué haces cuando algo no sale como esperabas?",
+    "answers": [
+      { "answer": "Busco rápidamente otra forma de resolverlo. ", "value": 1 },
+      {
+        "answer": "Intento ver el lado positivo y seguir adelante. ",
+        "value": 2
+      },
+      { "answer": "Me adapto y apoyo a quien lo necesite. ", "value": 3 },
+      { "answer": "Reviso todo para corregirlo con precisión. ", "value": 4 }
+    ]
+  },
+  {
+    "question": "¿Qué tipo de metas te motivan más?",
+    "answers": [
+      { "answer": "Ambiciosas y desafiantes. ", "value": 1 },
+      { "answer": "Divertidas y novedosas. ", "value": 2 },
+      { "answer": "Equilibradas y significativas. ", "value": 3 },
+      { "answer": "Claras y bien definidas. ", "value": 4 }
+    ]
+  },
+  {
+    "question": "¿Qué frase te representa mejor?",
+    "answers": [
+      { "answer": "¡Vamos al grano! ", "value": 1 },
+      { "answer": "¡Buena vibra siempre! ", "value": 2 },
+      { "answer": "Lo importante es llevarse bien. ", "value": 3 },
+      { "answer": "Primero revisemos los detalles. ", "value": 4 }
+    ]
+  },
+  {
+    "question": "¿Qué tipo de liderazgo prefieres?",
+    "answers": [
+      { "answer": "Fuerte y orientado a resultados. ", "value": 1 },
+      { "answer": "Carismático e inspirador. ", "value": 2 },
+      { "answer": "Justo y colaborativo. ", "value": 3 },
+      { "answer": "Organizado y experto. ", "value": 4 }
+    ]
+  },
+  {
+    "question": "¿Cómo defines el éxito?",
+    "answers": [
+      { "answer": "Alcanzar metas y destacar. ", "value": 1 },
+      { "answer": "Disfrutar lo que haces y conectar con otros. ", "value": 2 },
+      { "answer": "Tener relaciones saludables y estables. ", "value": 3 },
+      { "answer": "Hacer las cosas con calidad y precisión. ", "value": 4 }
+    ]
+  }
+]
