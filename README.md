@@ -14,19 +14,6 @@ A web application built with **React + TypeScript** that helps users discover th
 
 ---
 
-## 📦 Project Structure
-
-/src
-├── components/ # Reusable UI components
-├── pages/ # Main views/screens
-├── constants/ # Global constants (e.g., color map)
-├── types/ # TypeScript interfaces and types
-├── utils/ # Utility functions (e.g., shuffle)
-├── data/ # Questions in JSON format
-├── styles/ # Global CSS
-
----
-
 ## 🧩 How It Works
 
 1. The user answers 20 questions.
