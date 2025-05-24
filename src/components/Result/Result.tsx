@@ -1,18 +1,13 @@
 import person from "../../assets/person.svg";
 import "./Result.css";
-import personalities from "../../data/personalityEsp.json";
-import type { AnswerColor, ResultProps } from "../../types/index.ts";
+import personalities from "../../data/personalityEng.json";
+import type {
+  AnswerColor,
+  answerFrecuencyType,
+  Personality,
+  ResultProps,
+} from "../../types";
 import { answersColors } from "../../constants/index.ts";
-
-interface Personality {
-  percent: number;
-  color: "red" | "yellow" | "blue" | "green" | "white";
-}
-
-interface answerFrecuencyType {
-  count: number;
-  value: number;
-}
 
 function getPersonality(
   answerFrecuency: answerFrecuencyType | undefined,
@@ -73,7 +68,9 @@ const Result: React.FC<ResultProps> = ({ selectedAnswers, totalQuestions }) => {
       </div>
       {showResult && (
         <div>
-          <h4>{`Felicidades! eres ${personalityA.percent}% ${personalityA.color} y ${personalityB.percent}% ${personalityB.color}`}</h4>
+          <h4>{`Great! you are: 
+          ${personalityA.percent}% ${personalityA.color}
+          ${personalityB.percent}% ${personalityB.color}`}</h4>
           <div>
             <h5>{personalityA.color}</h5>
             <div className="row result">

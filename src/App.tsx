@@ -1,6 +1,6 @@
 import Question from "./components/Question";
 import type { selectedAnswerType } from "./types/index.ts";
-import questionsEsp from "./data/questions_personality.json";
+import questionsEsp from "./data/questionsEng.json";
 import Result from "./components/Result";
 import { useState } from "react";
 

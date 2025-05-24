@@ -24,3 +24,13 @@ export const answersColors: Record<number, AnswerColor> = {
   3: "blue",
   4: "green",
 };
+
+export interface Personality {
+  percent: number;
+  color: "red" | "yellow" | "blue" | "green" | "white";
+}
+
+export interface answerFrecuencyType {
+  count: number;
+  value: number;
+}
